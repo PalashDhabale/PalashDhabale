@@ -42,6 +42,6 @@ Student at International Institute of Information Technology, Pune.
 
 </div>
 
-[![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=PalashDhabale&theme=gotham)](https://github.com/PalashDhabale)
+<!--[![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=PalashDhabale&theme=gotham)](https://github.com/PalashDhabale)
 
-[![@PalashDhabale's Holopin board](https://holopin.io/api/user/board?user=PalashDhabale)](https://holopin.io/@PalashDhabale)
+//[![@PalashDhabale's Holopin board](https://holopin.io/api/user/board?user=PalashDhabale)](https://holopin.io/@PalashDhabale)-->
